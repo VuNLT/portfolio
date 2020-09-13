@@ -72,7 +72,7 @@ hr {
 }
 
 .profile {
-  width: 50%;
+  width: 40%;
   margin: 0 auto 100px;
 }
 
@@ -107,6 +107,7 @@ hr {
 
 .contact-me {
   margin: 100px auto;
+  width: 30%;
 }
 
 .btn {
